@@ -1,0 +1,1 @@
+compression         compression algorithm for the file or directory

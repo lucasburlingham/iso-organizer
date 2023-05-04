@@ -1,0 +1,27 @@
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+body {
+	background-color: #363636;
+}
+
+.container {
+	background-color: #f1f1f1;
+	border-radius: 10px;
+	box-shadow: 0 1rem 3rem rgb(0, 0, 0, 0.175);
+	margin: 2em;
+}
+
+textarea {
+	resize: none;
+	margin: 1em;
+	width: auto;
+	height: auto;
+}
